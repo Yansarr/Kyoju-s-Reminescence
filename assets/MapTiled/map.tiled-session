@@ -1,0 +1,155 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "upgrades/upgrades.tsx",
+    "expandedProjectPaths": [
+        "bloc",
+        "upgrades",
+        "decorations",
+        ".",
+        "backgrounds"
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "backgrounds/atlas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2.7669
+        },
+        "backgrounds/bloc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "backgrounds/cave.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "backgrounds/caveBackground.tsx": {
+            "scaleInDock": 1
+        },
+        "backgrounds/city1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.6203,
+            "scaleInEditor": 1
+        },
+        "backgrounds/city2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5588,
+            "scaleInEditor": 1
+        },
+        "backgrounds/city3.tsx": {
+            "scaleInDock": 0.4837,
+            "scaleInEditor": 1
+        },
+        "backgrounds/nuages.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.7466,
+            "scaleInEditor": 1
+        },
+        "backgrounds/oak_woods_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "backgrounds/spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bloc/bloc1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bloc/bloc2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bloc/bloc3.tsx": {
+            "scaleInDock": 2.3082,
+            "scaleInEditor": 1
+        },
+        "bloc/blocCave2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bloc/blocCave3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bloc/blocCyber1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "bloc/oak_woods_tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.7852,
+            "scaleInEditor": 1
+        },
+        "bloc1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4.5394
+        },
+        "bloc2.tsx": {
+            "scaleInDock": 1.1045,
+            "scaleInEditor": 1
+        },
+        "decorations/decorations.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.2571
+        },
+        "map.tmx": {
+            "expandedGroupLayers": [
+                10
+            ],
+            "scale": 1.1249,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 5779.180371588586,
+                "y": 1163.2145079562629
+            }
+        },
+        "upgrades/upgrades.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/yanis/Documents/GameJam/gamejam2023/assets/MapTiled/upgrades",
+    "map.height": 26,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "map.tmx",
+        "backgrounds/city1.tsx",
+        "backgrounds/city2.tsx",
+        "backgrounds/city3.tsx",
+        "bloc/oak_woods_tileset.tsx",
+        "backgrounds/nuages.tsx",
+        "bloc/bloc1.tsx",
+        "upgrades/upgrades.tsx",
+        "decorations/decorations.tsx"
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "map.tmx",
+        "backgrounds/city1.tsx",
+        "backgrounds/city2.tsx",
+        "backgrounds/city3.tsx",
+        "bloc/oak_woods_tileset.tsx",
+        "backgrounds/nuages.tsx",
+        "bloc/bloc1.tsx",
+        "decorations/decorations.tsx",
+        "upgrades/upgrades.tsx",
+        "bloc/blocCave3.tsx",
+        "bloc/blocCave2.tsx",
+        "backgrounds/cave.tsx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
